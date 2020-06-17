@@ -1,0 +1,20 @@
+D:\Project\VS\С#\ObjEditorTwo\ObjEditor\bin\Debug\ObjEditor.exe.config
+D:\Project\VS\С#\ObjEditorTwo\ObjEditor\bin\Debug\ObjEditor.exe
+D:\Project\VS\С#\ObjEditorTwo\ObjEditor\bin\Debug\ObjEditor.pdb
+D:\Project\VS\С#\ObjEditorTwo\ObjEditor\obj\Debug\ObjEditorTwo.csprojAssemblyReference.cache
+D:\Project\VS\С#\ObjEditorTwo\ObjEditor\obj\Debug\ObjEditor.Form1.resources
+D:\Project\VS\С#\ObjEditorTwo\ObjEditor\obj\Debug\ObjEditor.Properties.Resources.resources
+D:\Project\VS\С#\ObjEditorTwo\ObjEditor\obj\Debug\ObjEditorTwo.csproj.GenerateResource.cache
+D:\Project\VS\С#\ObjEditorTwo\ObjEditor\obj\Debug\ObjEditorTwo.csproj.CoreCompileInputs.cache
+D:\Project\VS\С#\ObjEditorTwo\ObjEditor\obj\Debug\ObjEditor.exe
+D:\Project\VS\С#\ObjEditorTwo\ObjEditor\obj\Debug\ObjEditor.pdb
+C:\Users\konno\Desktop\работы в с\Програмирование\кг\ObjEditorTwo\ObjEditor\bin\Debug\ObjEditor.exe.config
+C:\Users\konno\Desktop\работы в с\Програмирование\кг\ObjEditorTwo\ObjEditor\bin\Debug\ObjEditor.exe
+C:\Users\konno\Desktop\работы в с\Програмирование\кг\ObjEditorTwo\ObjEditor\bin\Debug\ObjEditor.pdb
+C:\Users\konno\Desktop\работы в с\Програмирование\кг\ObjEditorTwo\ObjEditor\obj\Debug\ObjEditorTwo.csprojAssemblyReference.cache
+C:\Users\konno\Desktop\работы в с\Програмирование\кг\ObjEditorTwo\ObjEditor\obj\Debug\ObjEditor.Form1.resources
+C:\Users\konno\Desktop\работы в с\Програмирование\кг\ObjEditorTwo\ObjEditor\obj\Debug\ObjEditor.Properties.Resources.resources
+C:\Users\konno\Desktop\работы в с\Програмирование\кг\ObjEditorTwo\ObjEditor\obj\Debug\ObjEditorTwo.csproj.GenerateResource.cache
+C:\Users\konno\Desktop\работы в с\Програмирование\кг\ObjEditorTwo\ObjEditor\obj\Debug\ObjEditorTwo.csproj.CoreCompileInputs.cache
+C:\Users\konno\Desktop\работы в с\Програмирование\кг\ObjEditorTwo\ObjEditor\obj\Debug\ObjEditor.exe
+C:\Users\konno\Desktop\работы в с\Програмирование\кг\ObjEditorTwo\ObjEditor\obj\Debug\ObjEditor.pdb

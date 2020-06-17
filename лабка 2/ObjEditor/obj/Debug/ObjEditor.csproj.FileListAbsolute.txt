@@ -1,0 +1,30 @@
+C:\Users\dima\!Project\C++\ObjEditor\ObjEditor\obj\Debug\ObjEditor.csprojAssemblyReference.cache
+C:\Users\dima\!Project\C++\ObjEditor\ObjEditor\obj\Debug\ObjEditor.Form1.resources
+C:\Users\dima\!Project\C++\ObjEditor\ObjEditor\obj\Debug\ObjEditor.Properties.Resources.resources
+C:\Users\dima\!Project\C++\ObjEditor\ObjEditor\obj\Debug\ObjEditor.csproj.GenerateResource.cache
+C:\Users\dima\!Project\C++\ObjEditor\ObjEditor\obj\Debug\ObjEditor.csproj.CoreCompileInputs.cache
+C:\Users\dima\!Project\C++\ObjEditor\ObjEditor\bin\Debug\ObjEditor.exe.config
+C:\Users\dima\!Project\C++\ObjEditor\ObjEditor\bin\Debug\ObjEditor.exe
+C:\Users\dima\!Project\C++\ObjEditor\ObjEditor\bin\Debug\ObjEditor.pdb
+C:\Users\dima\!Project\C++\ObjEditor\ObjEditor\obj\Debug\ObjEditor.exe
+C:\Users\dima\!Project\C++\ObjEditor\ObjEditor\obj\Debug\ObjEditor.pdb
+D:\!Project\VS C#\ObjEditor\ObjEditor\obj\Debug\ObjEditor.csprojAssemblyReference.cache
+D:\!Project\VS C#\ObjEditor\ObjEditor\obj\Debug\ObjEditor.Form1.resources
+D:\!Project\VS C#\ObjEditor\ObjEditor\obj\Debug\ObjEditor.Properties.Resources.resources
+D:\!Project\VS C#\ObjEditor\ObjEditor\obj\Debug\ObjEditor.csproj.GenerateResource.cache
+D:\!Project\VS C#\ObjEditor\ObjEditor\obj\Debug\ObjEditor.csproj.CoreCompileInputs.cache
+D:\!Project\VS C#\ObjEditor\ObjEditor\obj\Debug\ObjEditor.exe
+D:\!Project\VS C#\ObjEditor\ObjEditor\obj\Debug\ObjEditor.pdb
+D:\!Project\VS C#\ObjEditor\ObjEditor\bin\Debug\ObjEditor.exe.config
+D:\!Project\VS C#\ObjEditor\ObjEditor\bin\Debug\ObjEditor.exe
+D:\!Project\VS C#\ObjEditor\ObjEditor\bin\Debug\ObjEditor.pdb
+D:\Project\VS\С#\ObjEditor\ObjEditor\bin\Debug\ObjEditor.exe.config
+D:\Project\VS\С#\ObjEditor\ObjEditor\bin\Debug\ObjEditor.exe
+D:\Project\VS\С#\ObjEditor\ObjEditor\bin\Debug\ObjEditor.pdb
+D:\Project\VS\С#\ObjEditor\ObjEditor\obj\Debug\ObjEditor.csprojAssemblyReference.cache
+D:\Project\VS\С#\ObjEditor\ObjEditor\obj\Debug\ObjEditor.Form1.resources
+D:\Project\VS\С#\ObjEditor\ObjEditor\obj\Debug\ObjEditor.Properties.Resources.resources
+D:\Project\VS\С#\ObjEditor\ObjEditor\obj\Debug\ObjEditor.csproj.GenerateResource.cache
+D:\Project\VS\С#\ObjEditor\ObjEditor\obj\Debug\ObjEditor.csproj.CoreCompileInputs.cache
+D:\Project\VS\С#\ObjEditor\ObjEditor\obj\Debug\ObjEditor.exe
+D:\Project\VS\С#\ObjEditor\ObjEditor\obj\Debug\ObjEditor.pdb
